@@ -21,7 +21,7 @@ body {
 /* add the .bigItem class */
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
-  height: 55%;
+  height: 80%;
   width: 55%;
   justify-self: center;
 }
